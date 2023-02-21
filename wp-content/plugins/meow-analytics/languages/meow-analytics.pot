@@ -1,0 +1,326 @@
+# Copyright (C) 2020 Jordy Meow
+# This file is distributed under the same license as the Media Cleaner Pro plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Meow Analytics\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media-cleaner-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-22 11:20+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+
+#: common/admin.php:60
+msgid "Did nothing but a blank request."
+msgstr ""
+
+#: common/admin.php:67
+#, php-format
+msgid "Created and deleted %s"
+msgstr ""
+
+#: common/admin.php:113
+#, php-format
+msgid "You have been using <b>%1$s</b> for some time now. Thank you! Could you kindly share your opinion with me, along with, maybe, features you would like to see implemented? Then, please <a style=\"font-weight: bold; color: #b926ff;\" target=\"_blank\" href=\"https://wordpress.org/support/plugin/%2$s/reviews/?rate=5#new-post\">write a little review</a>. That will also bring me joy and motivation, and I will get back to you :) <u>In the case you already have written a review</u>, please check again. Many reviews got removed from WordPress recently."
+msgstr ""
+
+#: common/admin.php:121
+msgid "Never remind me!"
+msgstr ""
+
+#: common/admin.php:126
+msgid "Remind me in a few weeks..."
+msgstr ""
+
+#: common/admin.php:131
+msgid "Yes, I did it!"
+msgstr ""
+
+#: common/admin.php:169
+#, php-format
+msgid "<p>It looks like you are using the free version of the plugin (<b>%s</b>) but a license for the Pro version was also found. The Pro version might have been replaced by the Free version during an update (might be caused by a temporarily issue). If it is the case, <b>please download it again</b> from the <a target=\"_blank\" href=\"https://store.meowapps.com\">Meow Store</a>. If you wish to continue using the free version and clear this message, click on this button."
+msgstr ""
+
+#: common/admin.php:175
+msgid "Remove the license"
+msgstr ""
+
+#: common/admin.php:219 common/admin.php:220
+msgid "Dashboard"
+msgstr ""
+
+#: common/admin.php:225
+msgid "Main Menu"
+msgstr ""
+
+#: common/admin.php:228
+msgid "SSL Verify"
+msgstr ""
+
+#: common/admin.php:243
+msgid "<label>Hide</label><br /><small>Doesn't display the ads.</small>"
+msgstr ""
+
+#: common/admin.php:251
+msgid "<label>Hide <b>Meow Apps</b> Menu</label><br /><small>Hide Meow Apps menu and all its components, for a cleaner admin. This option will be reset if a new Meow Apps plugin is installed. <b>Once activated, an option will be added in your General settings to display it again.</b></small>"
+msgstr ""
+
+#: common/admin.php:259
+msgid "<label>Force</label><br /><small>Updates and licenses checks are usually made without checking SSL certificates and it is actually fine this way. But if you are intransigent when it comes to SSL matters, this option will force it.</small>"
+msgstr ""
+
+#: common/admin.php:266
+msgid "Pro Version"
+msgstr ""
+
+#: common/admin.php:267
+msgid "(enabled)"
+msgstr ""
+
+#: common/admin.php:267
+msgid "(disabled)"
+msgstr ""
+
+#: common/admin.php:275
+#, php-format
+msgid "More information about the Pro version here: <a target=\"_blank\" href=\"%1$s\">%2$s</a>. If you actually bought the Pro version already, please remove the current plugin and download the Pro version from your account at the <a target=\"_blank\" href=\"https://store.meowapps.com/account/downloads/\">Meow Apps Store</a>."
+msgstr ""
+
+#: common/admin.php:294
+msgid "install"
+msgstr ""
+
+#: common/admin.php:316
+msgid "enable"
+msgstr ""
+
+#: common/admin.php:321
+msgid "Meow Apps: The function common_url( $file ) needs to be overriden."
+msgstr ""
+
+#: common/admin.php:341 common/admin.php:357
+msgid "Go back"
+msgstr ""
+
+#: common/admin.php:352
+msgid "=== MEOW APPS DEBUG (This is not an error) ==="
+msgstr ""
+
+#: common/admin.php:361
+msgid "Write in the Error Logs"
+msgstr ""
+
+#: common/admin.php:367
+#, php-format
+msgid "Now (auto-reload every 5 seconds): [%s UTC]"
+msgstr ""
+
+#: common/admin.php:370
+msgid "Errors (order by latest)"
+msgstr ""
+
+#: common/admin.php:378
+msgid "The PHP Error Logs cannot be found. Please ask your hosting service for it."
+msgstr ""
+
+#: common/admin.php:388
+msgid "Meow Apps is run by Jordy Meow, a photographer and software developer living in Japan (and taking <a target=\"_blank\" href=\"http://offbeatjapan.org\">a lot of photos</a>). Meow Apps is a suite of plugins focusing on photography, imaging, optimization and it teams up with the best players in the community (other themes and plugins developers). For more information, please check <a href=\"http://meowapps.com\" target=\"_blank\">Meow Apps</a>."
+msgstr ""
+
+#: common/admin.php:392
+msgid "Featured Plugins"
+msgstr ""
+
+#: common/admin.php:399
+msgid "Detect the files which are not in use."
+msgstr ""
+
+#: common/admin.php:403
+msgid "For nicer filenames and a better SEO."
+msgstr ""
+
+#: common/admin.php:407
+msgid "A simpler, nicer, prettier contact form."
+msgstr ""
+
+#: common/admin.php:411
+msgid "The famous plugin that adds Retina support."
+msgstr ""
+
+#: common/admin.php:420
+msgid "Beautiful but lightweight gallery with many layouts. The only one that allows you to uninstall it without losing anything."
+msgstr ""
+
+#: common/admin.php:424
+msgid "Pretty and ultra-optimized Lightbox which can also display your EXIF data. You will love it."
+msgstr ""
+
+#: common/admin.php:428
+msgid "Synchronize your Lightroom to your WordPress. This plugin is loved by all the photographers using Lightroom and WordPress."
+msgstr ""
+
+#: common/admin.php:433
+msgid "WordPress Performance & Recommendations"
+msgstr ""
+
+#: common/admin.php:435
+msgid "The <b>Empty Request Time</b> helps you analyzing the raw performance of your install by giving you the average time it takes to run an empty request to your server. You can try to disable some plugins (or change their options) then and click on Reset to see how it influences the results. With <b>File Operation Time</b>, you will find out if your server is slow with files. An excellent install would have an Empty Request Time of less than 500 ms. Keep it absolutely under 2,000 ms. File Operation Time should take only a few milliseconds more than the Empty Request Time. For more information about this, <a href=\"https://meowapps.com/clean-optimize-wordpress/#Optimize_your_Empty_Request_Time\" target=\"_blank\">click here</a>."
+msgstr ""
+
+#: common/admin.php:439
+msgid "Empty Request Time"
+msgstr ""
+
+#: common/admin.php:440 common/admin.php:449 common/admin.php:464
+msgid "N/A"
+msgstr ""
+
+#: common/admin.php:441
+msgid "Based on"
+msgstr ""
+
+#: common/admin.php:442
+msgid "request(s)"
+msgstr ""
+
+#: common/admin.php:448
+msgid "File Operation Time"
+msgstr ""
+
+#: common/admin.php:450
+msgid "Create temporary file and delete it."
+msgstr ""
+
+#: common/admin.php:451 common/admin.php:501
+msgid "Check"
+msgstr ""
+
+#: common/admin.php:483 common/admin.php:500
+msgid "ms"
+msgstr ""
+
+#: common/admin.php:517
+msgid "Too many WordPress installs are blown-up with useless and/or huge plugins, and bad practices. But that is because most users are overwhelmed by the diversity and immensity of the WordPress jungle. One rule of thumb is to keep your install the simplest as possible, with the least number of plugins (avoiding heavy ones too) and a good hosting service (avoid VPS except if you know exactly what you are doing). Articles are kept being updated on the Meow Apps website, with all the latest recommendations: "
+msgstr ""
+
+#: common/admin.php:531
+msgid "Common Options & Tools"
+msgstr ""
+
+#: common/admin.php:534
+msgid "Common"
+msgstr ""
+
+#: common/admin.php:545
+msgid "Debug"
+msgstr ""
+
+#: common/admin.php:548
+msgid "Display Error Log"
+msgstr ""
+
+#: common/admin.php:549
+msgid "Display PHP Info"
+msgstr ""
+
+#: common/admin.php:555
+msgid "Post Types (used by this install)"
+msgstr ""
+
+#: common/admin.php:578
+#, php-format
+msgid "Thanks for using <a href=\"https://meowapps.com\">Meow Apps</a>! This is the Meow Admin %1$s <br /><i>Loaded from %2$s </i>"
+msgstr ""
+
+#: mga_admin.php:35
+msgid "Tracking ID"
+msgstr ""
+
+#: mga_admin.php:37
+msgid "Tracking"
+msgstr ""
+
+#: mga_admin.php:46
+msgid "Client ID"
+msgstr ""
+
+#: mga_admin.php:48
+msgid "Client Secret"
+msgstr ""
+
+#: mga_admin.php:66
+msgid "If you would like to view your Google Analytics data from your WordPress Dashboard, you will need to link this website with Google Analytics. If you don't know how to do this, <a target='_blank' href='https://meowapps.com/plugin/meow-analytics/'>check the tutorial</a>."
+msgstr ""
+
+#: mga_admin.php:73
+msgid "<b>Meow Analytics is ready to link your website to Google Analytics through your Client ID.<br /></b>In the settings of <a target='_blank' href='https://console.developers.google.com/apis/credentials'>your Client ID</a>, make sure you have enabled the Google Analytics API in <i>Library</i>, and that following settings are set accordingly."
+msgstr ""
+
+#: mga_admin.php:75
+msgid "Authorized JavaScript origins:"
+msgstr ""
+
+#: mga_admin.php:77
+msgid "Authorized redirect URIs:"
+msgstr ""
+
+#: mga_admin.php:81
+msgid "Link this website with Google Analytics"
+msgstr ""
+
+#: mga_admin.php:89
+msgid "Everything is well :) Your website is connected to the Google Analytics API."
+msgstr ""
+
+#: mga_admin.php:94
+msgid "Refresh Token"
+msgstr ""
+
+#: mga_admin.php:114
+msgid "How to use"
+msgstr ""
+
+#: mga_admin.php:116
+msgid "You only need the <b>Tracking ID</b> related to your website, which you can get from <a target=\"_blank\" href=\"https://analytics.google.com/analytics/web/\">Google Analytics</a>. Then, you can check if it works by using <a target=\"_blank\" href=\"http://www.gachecker.com/?site="
+msgstr ""
+
+#: mga_admin.php:127
+msgid "Google Analytics"
+msgstr ""
+
+#: mga_admin.php:142
+msgid "Google Developers Console"
+msgstr ""
+
+#: mga_admin.php:172
+msgid "Disable"
+msgstr ""
+
+#: mga_admin.php:172
+msgid "Check this if you would like to disable the tracking temporarily."
+msgstr ""
+
+#: mga_auth.php:23
+msgid "Accounts were linked successfully! :)"
+msgstr ""
+
+#: mga_auth.php:30
+msgid "Accounts were unlinked. However, if the Tracking ID is still present, Google Analytics is still keeping track of the activity on your website."
+msgstr ""
+
+#: mga_auth.php:34
+msgid "The token was refreshed."
+msgstr ""
+
+#: mga_dashboard.php:50
+msgid "Meow Analytics"
+msgstr ""

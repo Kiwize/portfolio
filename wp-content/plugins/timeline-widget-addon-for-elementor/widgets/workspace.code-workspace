@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\timeline-widget-pro-addon-for-elementor"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "..\\..\\..\\..\\..\\..\\..\\learnelementor\\app\\public\\wp-content\\plugins\\elementor-test-addon"
+    },
+    {
+      "path": "..\\..\\..\\..\\..\\..\\..\\learnelementor\\app\\public\\wp-content\\plugins\\list-widget"
+    }
+  ],
+  "settings": {}
+}
